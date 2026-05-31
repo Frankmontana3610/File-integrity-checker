@@ -11,3 +11,4 @@
 
 > ./integrity-check update /var/log/syslog
 > Hash updated successfully.
+> [Live Project](https://roadmap.sh/projects/file-integrity-checker)
